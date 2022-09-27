@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @thenaijacarguy
-- 👀 I’m interested in Data and Business Analytics
+- 👋 Hi, my name is Gabby.
+- 👋 I'm a senior Data Analyst and Python Programmer.
+- 👀 I’m interested in Data and Business Analytics.
 - 🌱 I currently use Python to complement SQL and Power BI in data querrying, manipulation and visualization.
+- 📫 When I'm not coding, I'm tutoring professionals on programming concepts and ethics to being efficient.
 - 💞️ I’m looking to collaborate on projects that would help me improve my skills and experience.
 - 📫 How to reach me : Instagram/Twitter : @thenaijacarguy
 
